@@ -45,17 +45,17 @@ The repository covers the following domains:
 | Folder/File        | Description |
 |--------------------|-------------|
 | **PS/**            | Problem statements in text files |
-| ├── PS_01-04.txt   | Problem statements 1–4 |
-| ├── PS_05-09.txt   | Problem statements 5–9 |
-| ├── PS_10-14.txt   | Problem statements 10–14 |
-| ├── PS_15-18.txt   | Problem statements 15–18 |
-| └── PS_19-26.txt   | Problem statements 19–26 |
+| PS_01-04.txt   | Problem statements 1–4 |
+| PS_05-09.txt   | Problem statements 5–9 |
+| PS_10-14.txt   | Problem statements 10–14 |
+| PS_15-18.txt   | Problem statements 15–18 |
+| PS_19-26.txt   | Problem statements 19–26 |
 | **Solutions/**     | Python solutions for problem statements |
-| ├── PS_01-04.py    | Solutions for 1–4 |
-| ├── PS_05-09.py    | Solutions for 5–9 |
-| ├── PS_10-14.py    | Solutions for 10–14 |
-| ├── PS_15-18.py    | Solutions for 15–18 |
-| └── PS_19-26.py    | Solutions for 19–26 |
+| PS_01-04.py    | Solutions for 1–4 |
+| PS_05-09.py    | Solutions for 5–9 |
+| PS_10-14.py    | Solutions for 10–14 |
+| PS_15-18.py    | Solutions for 15–18 |
+| PS_19-26.py    | Solutions for 19–26 |
 | **README.md**      | Project overview & documentation |
 | **requirements.txt** | Dependencies (pandas, numpy, matplotlib, seaborn) |
 
