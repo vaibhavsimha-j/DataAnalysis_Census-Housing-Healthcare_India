@@ -41,24 +41,24 @@ The repository covers the following domains:
 
 ## Repo Structure
 
-DataAnalysis-Census-Housing-Healthcare-India/
-│
-├── PS/                                   # Problem statements
-│   ├── PS_01-04.txt
-│   ├── PS_05-09.txt
-│   ├── PS_10-14.txt
-│   ├── PS_15-18.txt
-│   └── PS_19-26.txt
-│
-├── Solutions/                            # Python solutions for each PS
-│   ├── PS_01-04.py
-│   ├── PS_05-09.py
-│   ├── PS_10-14.py
-│   ├── PS_15-18.py
-│   └── PS_19-26.py
-│
-├── README.md                             # Project overview
-└── requirements.txt                      # List of dependencies (pandas, numpy, matplotlib, seaborn)
+
+| Folder/File        | Description |
+|--------------------|-------------|
+| **PS/**            | Problem statements in text files |
+| ├── PS_01-04.txt   | Problem statements 1–4 |
+| ├── PS_05-09.txt   | Problem statements 5–9 |
+| ├── PS_10-14.txt   | Problem statements 10–14 |
+| ├── PS_15-18.txt   | Problem statements 15–18 |
+| └── PS_19-26.txt   | Problem statements 19–26 |
+| **Solutions/**     | Python solutions for problem statements |
+| ├── PS_01-04.py    | Solutions for 1–4 |
+| ├── PS_05-09.py    | Solutions for 5–9 |
+| ├── PS_10-14.py    | Solutions for 10–14 |
+| ├── PS_15-18.py    | Solutions for 15–18 |
+| └── PS_19-26.py    | Solutions for 19–26 |
+| **README.md**      | Project overview & documentation |
+| **requirements.txt** | Dependencies (pandas, numpy, matplotlib, seaborn) |
+
 
 ⸻
 ## Learning Outcomes
